@@ -17,7 +17,7 @@
     <p>I have provided implementations of various clustering algorithms, including:</p>
     <ul>
         <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html">K-Means Clustering</a></li>
-        <li><a href="https://scikit-learn.org/stable/modules/clustering.html#id11">Hierarchical Clustering</a></li> (Coming Soon)
+        <li><a href="https://scikit-learn.org/stable/modules/clustering.html#id11">Hierarchical Clustering</a></li>
         <!-- Add more clustering algorithms as needed -->
     </ul>
     
